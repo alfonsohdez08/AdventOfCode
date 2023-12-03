@@ -11,8 +11,9 @@
             //int answerPart2 = Day1.SolvePart2(false);
             //Console.WriteLine(answerPart2);
 
-            int answerDay2 = Day2.Solve(false);
-            Console.WriteLine(answerDay2);
+            var (part1, part2) = Day3.Solve(false);
+            Console.WriteLine(part1);
+            Console.WriteLine(part2);
 
             Console.ReadKey();
         }
