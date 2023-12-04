@@ -15,7 +15,7 @@
             //Console.WriteLine(part1);
             //Console.WriteLine(part2);
 
-            var answer = Day5.Solve(false);
+            var answer = Day4.Solve(false);
             
             Console.WriteLine(answer.part1);
             Console.WriteLine(answer.part2);
