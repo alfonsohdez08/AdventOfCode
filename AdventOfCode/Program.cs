@@ -15,10 +15,13 @@
             //Console.WriteLine(part1);
             //Console.WriteLine(part2);
 
-            var answer = Day4.Solve(false);
-            
-            Console.WriteLine(answer.part1);
-            Console.WriteLine(answer.part2);
+            //var answer = Day4.Solve(false);
+
+            //Console.WriteLine(answer.part1);
+            //Console.WriteLine(answer.part2);
+
+            var answer = Day6.Solve(false);
+            Console.WriteLine(answer);
 
             Console.ReadKey();
         }
